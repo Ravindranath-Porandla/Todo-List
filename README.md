@@ -29,8 +29,8 @@ Ensure you have the following installed:
    git clone <repo-url>
    cd <project-directory>
 2. **⚙️ Configure the Database**  
-  ```Update `application.properties` with your MySQL credentials.  
+   - Update `application.properties` with your MySQL credentials.  
 
-## 🚀 Build and Run the Application  
+3. **🚀 Build and Run the Application**  
   ```bash
   mvn spring-boot:run
